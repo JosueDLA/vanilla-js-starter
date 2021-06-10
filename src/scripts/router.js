@@ -1,4 +1,4 @@
-export default class Router {
+export class Router {
   constructor(paths) {
     this.paths = paths;
     this.initRouter();
