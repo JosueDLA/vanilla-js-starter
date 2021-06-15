@@ -1,6 +1,5 @@
 import "bootstrap/dist/js/bootstrap.bundle.min";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "../styles/index.css";
+import "../styles/index.scss";
 import { Router } from "./router";
 import { PATHS } from "./routes";
 
